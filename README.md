@@ -20,8 +20,13 @@ stays up than something clever that needs babysitting.
 
 **Working with**
 
-TypeScript · Node · Docker · Postgres · Linux — and whatever the problem
-actually needs.
+TypeScript · Node · Docker · Postgres · Linux
+
+**Learning**
+
+Go, because most of the infrastructure I admire is written in it. Alongside
+that: Kubernetes, Helm, Terraform, AWS — the parts of the stack that decide
+whether anything I build actually survives contact with production.
 
 **Elsewhere**
 
