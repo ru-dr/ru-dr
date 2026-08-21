@@ -1,12 +1,11 @@
 ### rudr
 
-Cloud, infra & distributed systems.
+Cloud, infra & distributed systems. Boston, MA.
 
 I build things — an idea shows up, I want to know how it breaks, so I build it
-and run it. What keeps pulling me back is failure: ten processes on a network,
-one of them dead, nobody sure which. Consensus, replication, state that
-survives a restart. I'd rather ship something boring that stays up than
-something clever that needs babysitting.
+and run it. Mostly interested in the failure modes that only show up once the
+work is spread across machines. Currently dabbling in consensus protocols,
+observability, containerization, and whatever rabbit hole comes next.
 
 **Building**
 
@@ -16,13 +15,13 @@ something clever that needs babysitting.
 
 **Working with**
 
-TypeScript · Node · Docker · Postgres · Linux
+AWS · Python · TypeScript · Docker · Postgres · Linux
 
 **Learning**
 
 Go, because most of the infrastructure I read the source of is written in it.
 Kubernetes and Helm from the failure side — what a rollout does when a pod
-won't come up. Terraform and AWS, so deployment stops being an afterthought.
+won't come up. Terraform, so deployment stops being an afterthought.
 
 Also algorithms, reluctantly. Enough to clear the interview, then back to
 building.
