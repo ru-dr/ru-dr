@@ -7,15 +7,16 @@ shows up once the work is spread across machines — the failures you can't
 reproduce on one box. Currently dabbling in consensus protocols,
 observability, containerization, and whatever rabbit hole comes next.
 
+Every project here started as something I wanted to exist, usually because I
+hit the problem myself. The stack follows from that. AWS and Python do most of
+the heavy lifting lately, TypeScript and Docker show up often, and the rest
+gets picked per project and dropped when the next one needs something else.
+
 **Building**
 
 - [Indeks](https://github.com/ru-dr/indeks) — privacy-first, self-hosted analytics
 - [Plip](https://github.com/ru-dr/plip) — a logger that's pleasant to read
 - Mycelium — local-first sync engine, offline writes reconciled on reconnect (wip)
-
-**Working with**
-
-AWS · Python · TypeScript · Docker · Postgres · Linux
 
 **Learning**
 
