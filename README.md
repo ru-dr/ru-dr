@@ -20,13 +20,10 @@ gets picked per project and dropped when the next one needs something else.
 
 **Learning**
 
-Go, because most of the infrastructure I end up reading the source of is
-written in it. Kubernetes and Helm from the failure side — what a rollout
-actually does when a pod won't come up. Terraform, so deployment stops being
-the part I improvise.
-
-Also algorithms, reluctantly. Enough to clear the interview, then back to
-building.
+- Go — most of the infrastructure I read the source of is written in it
+- Kubernetes, Helm — what a rollout actually does when a pod won't come up
+- Terraform — so deployment stops being the part I improvise
+- Algorithms — reluctantly, enough to clear the interview
 
 **Elsewhere**
 
