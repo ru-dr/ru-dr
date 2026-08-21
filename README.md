@@ -21,10 +21,12 @@ something else.
 
 **Learning**
 
-- **Go** — most of the infrastructure I read the source of is written in it
-- **Kubernetes**, **Helm** — what a rollout *actually* does when a pod won't come up
-- **Terraform** — so deployment stops being the part I improvise
-- **Algorithms** — reluctantly, enough to clear the interview
+**Go**, because most of the infrastructure I read the source of is written in
+it. **Kubernetes** and **Helm** from the failure side — what a rollout
+*actually* does when a pod won't come up. **Terraform**, so deployment stops
+being the part I improvise.
+
+Algorithms too, reluctantly. Enough to clear the interview.
 
 **Elsewhere**
 
