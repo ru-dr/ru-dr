@@ -8,22 +8,23 @@ reproduce on one box. Currently dabbling in consensus protocols,
 observability, containerization, and whatever rabbit hole comes next.
 
 Every project here started as something I wanted to exist, usually because I
-hit the problem myself. The stack follows from that. AWS and Python do most of
-the heavy lifting lately, TypeScript and Docker show up often, and the rest
-gets picked per project and dropped when the next one needs something else.
+hit the problem myself. The stack follows from that — **AWS** and **Python** do
+most of the heavy lifting lately, **TypeScript** and **Docker** show up often,
+and the rest gets picked per project and dropped when the next one needs
+something else.
 
 **Building**
 
 - [Indeks](https://github.com/ru-dr/indeks) — privacy-first, self-hosted analytics
 - [Plip](https://github.com/ru-dr/plip) — a logger that's pleasant to read
-- Mycelium — local-first sync engine, offline writes reconciled on reconnect (wip)
+- Mycelium — local-first sync engine, offline writes reconciled on reconnect *(wip)*
 
 **Learning**
 
-- Go — most of the infrastructure I read the source of is written in it
-- Kubernetes, Helm — what a rollout actually does when a pod won't come up
-- Terraform — so deployment stops being the part I improvise
-- Algorithms — reluctantly, enough to clear the interview
+- **Go** — most of the infrastructure I read the source of is written in it
+- **Kubernetes**, **Helm** — what a rollout *actually* does when a pod won't come up
+- **Terraform** — so deployment stops being the part I improvise
+- **Algorithms** — reluctantly, enough to clear the interview
 
 **Elsewhere**
 
