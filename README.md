@@ -24,9 +24,20 @@ TypeScript · Node · Docker · Postgres · Linux
 
 **Learning**
 
-Go, because most of the infrastructure I admire is written in it. Alongside
-that: Kubernetes, Helm, Terraform, AWS — the parts of the stack that decide
-whether anything I build actually survives contact with production.
+Go — nearly every piece of infrastructure I've read the source of is written
+in it, and reading it secondhand stopped being enough.
+
+Kubernetes and Helm, from the failure side: what a rollout does when a pod
+won't come up, why a chart works locally and not anywhere else.
+
+Terraform and AWS, to stop treating deployment as the step that happens after
+the interesting work is done.
+
+**Also**
+
+Working through algorithms and data structures. I don't enjoy it and I'm not
+going to pretend otherwise — it's the price of the interview, so I do enough
+of it to clear that bar and get back to building.
 
 **Elsewhere**
 
