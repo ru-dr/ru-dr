@@ -2,13 +2,10 @@
 
 Cloud, infra & distributed systems. Boston, MA.
 
-Most of what interests me only shows up once the work is spread across
-machines — the failures you can't reproduce on one box. Currently dabbling in
-consensus protocols, observability, and containerization. Every project here
-started as something I wanted to exist, usually because I hit the problem
-myself, and the stack follows from that: **AWS** and **Python** do most of the
-heavy lifting lately, **TypeScript** and **Docker** show up often, the rest
-gets picked per project and dropped when the next one needs something else.
+The interesting failures are the ones you can't reproduce on one box.
+Dabbling in consensus protocols, observability, containerization. Every
+project here started as a problem I hit myself, and the stack follows from
+that — **AWS** and **Python** lately, **TypeScript** and **Docker** often.
 
 **Building**
 
