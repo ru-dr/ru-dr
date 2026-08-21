@@ -2,10 +2,10 @@
 
 Cloud, infra & distributed systems. Boston, MA.
 
-The interesting failures are the ones you can't reproduce on one box.
-Dabbling in consensus protocols, observability, containerization. Every
-project here started as a problem I hit myself, and the stack follows from
-that — **AWS** and **Python** lately, **TypeScript** and **Docker** often.
+I build things. Usually because I wanted them to exist, or I hit the problem
+myself and got annoyed enough to fix it. Most of it ends up being cloud and
+infra work — I like figuring out how things break once they're spread across
+machines. **AWS** and **Python** lately, **TypeScript** and **Docker** often.
 
 **Building**
 
