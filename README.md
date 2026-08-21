@@ -1,19 +1,14 @@
 ### rudr
 
-> I build things to find out how they break.
-
 Cloud, infra & distributed systems. Boston, MA.
 
 Most of what interests me only shows up once the work is spread across
 machines — the failures you can't reproduce on one box. Currently dabbling in
-consensus protocols, observability, containerization, and whatever rabbit hole
-comes next.
-
-Every project here started as something I wanted to exist, usually because I
-hit the problem myself. The stack follows from that — **AWS** and **Python** do
-most of the heavy lifting lately, **TypeScript** and **Docker** show up often,
-and the rest gets picked per project and dropped when the next one needs
-something else.
+consensus protocols, observability, and containerization. Every project here
+started as something I wanted to exist, usually because I hit the problem
+myself, and the stack follows from that: **AWS** and **Python** do most of the
+heavy lifting lately, **TypeScript** and **Docker** show up often, the rest
+gets picked per project and dropped when the next one needs something else.
 
 **Building**
 
