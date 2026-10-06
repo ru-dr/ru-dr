@@ -9,6 +9,7 @@ machines. **AWS** and **Python** lately, **TypeScript** and **Docker** often.
 
 **Building**
 
+- [Riffle](https://rifffle.vercel.app) — ranks your PR queue by risk, learned from what actually broke in your repo *(wip)*
 - [Indeks](https://github.com/ru-dr/indeks) — privacy-first, self-hosted analytics
 - [Plip](https://github.com/ru-dr/plip) — a logger that's pleasant to read
 - Mycelium — local-first sync engine, offline writes reconciled on reconnect *(wip)*
