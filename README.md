@@ -21,8 +21,6 @@ it. **Kubernetes** and **Helm** from the failure side — what a rollout
 *actually* does when a pod won't come up. **Terraform**, so deployment stops
 being the part I improvise.
 
-Algorithms too, reluctantly. Enough to clear the interview.
-
 **Elsewhere**
 
 [tldr.rudr.me](https://tldr.rudr.me) · [long.rudr.me](https://long.rudr.me) · [LinkedIn](https://www.linkedin.com/in/rudr/) · ping@rudr.me
